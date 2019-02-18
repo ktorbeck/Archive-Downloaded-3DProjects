@@ -15,10 +15,32 @@ While the photos from the original project show a real tealight candle being use
 ![alt text](https://raw.githubusercontent.com/ktorbeck/Archive-Downloaded-3DProjects/master/HOLIDAYS/Valentines_Day/White_Rose_Tealight_Candleholder/photos/White_Rose_Tealight_Candleholder_2.jpg "Photo of 3D Printed White Rose Tealight Candleholder in Red")
 
 
-
-
 ## Technical Information ##
+| | |
+|-:|-|
+| **Printer Used:** | [Creality 3D - Ender 3](https://amzn.to/2EfXZex) |
+| **Supports:** | NONE |
+| **Build Plate Adhesion** | Brim |
+| **Layer Height** | 0.2mm |
+| **Print Speed** | 60 mm/s |
+| **Printing Temperature** | 200°C |
+| **Build Plate Temperature** | 60°C |
+| **Material** | [HATCHBOX PLA 3D Printer Filament, 1.75 mm, Red](https://amzn.to/2DYZUmv)|
+|**Estimated Material Quantity Used:** |~ 56g|
+|**Estimated Cost for Print:**| $1.12|
+|**Estimated Print Time:**|5h 00 min|
 
 ## Additional Hardware Used ##
 - [LED Tea Light Candles](https://amzn.to/2GKDeJz) - AMAZON
-- 
+
+
+## Additional Photos of my Print ##
+
+![alt text](https://raw.githubusercontent.com/ktorbeck/Archive-Downloaded-3DProjects/master/HOLIDAYS/Valentines_Day/White_Rose_Tealight_Candleholder/photos/White_Rose_Tealight_Candleholder_2.jpg "Photo of 3D Printed White Rose Tealight Candleholder in Red")
+
+![alt text](https://raw.githubusercontent.com/ktorbeck/Archive-Downloaded-3DProjects/master/HOLIDAYS/Valentines_Day/White_Rose_Tealight_Candleholder/photos/White_Rose_Tealight_Candleholder_1.jpg "Photo of 3D Printed White Rose Tealight Candleholder in Red")
+
+![alt text](https://raw.githubusercontent.com/ktorbeck/Archive-Downloaded-3DProjects/master/HOLIDAYS/Valentines_Day/White_Rose_Tealight_Candleholder/photos/White_Rose_Tealight_Candleholder_3.jpg "Photo of 3D Printed White Rose Tealight Candleholder in Red")
+
+![alt text](https://raw.githubusercontent.com/ktorbeck/Archive-Downloaded-3DProjects/master/HOLIDAYS/Valentines_Day/White_Rose_Tealight_Candleholder/photos/White_Rose_Tealight_Candleholder_4.jpg "Photo of 3D Printed White Rose Tealight Candleholder in Red")
+
