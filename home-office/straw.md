@@ -38,4 +38,4 @@ NONE
 
 ## Additional Photos/Videos of my Print ##
 [![Time Lapse of 3D Printed Straw](http://img.youtube.com/vi/GSf-xaXTDvg/0.jpg)](http://www.youtube.com/watch?v=GSf-xaXTDvg "Time Lapse of 3D Printed Straw") 
-Time Lapse Video
+<br/>Time Lapse Video
