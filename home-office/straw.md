@@ -11,11 +11,11 @@
 With governments around the United States and other nations outlawing plastic straws, based on data from a kids school report, I decided to download this project by Gregory E Nator and make a joke video spoofing the news reports on both banning straws and 3D Printed Guns. While the straw printed fine at the time I did not know if any of the PLA I had was considered food safe so I did not use it to drink from.
 
 **DOWNLOADED IMAGES**
-![3D Render of Straw from Download](\Straw\images\9cb5dad8c12b666a0e7335a787b2fa5d_preview_featured.jpg)
+![3D Render of Straw from Download](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/362988837796092342eda552ee4595b8ce31aaaf/home-office/Straw/images/9cb5dad8c12b666a0e7335a787b2fa5d_preview_featured.jpg)
 
 **MY IMAGES**
-![Picture of my print of the straw](\photos\straw_01.jpg)
-![Picture of my print of the straw](\photos\straw_02.gif)
+![Picture of my print of the straw](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/821187d9226de63b4667c81b9ed40ba7226fa5e7/home-office/photos/straw_01.jpg)
+![Picture of my print of the straw](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/821187d9226de63b4667c81b9ed40ba7226fa5e7/home-office/photos/straw_02.gif)
 
 
 ## Technical Information ##
@@ -37,4 +37,4 @@ With governments around the United States and other nations outlawing plastic st
 NONE
 
 ## Additional Photos/Videos of my Print ##
-[![Time Lapse of 3D Printed Straw](http://img.youtube.com/vi/GSf-xaXTDvg/0.jpg)](http://www.youtube.com/watch?v=GSf-xaXTDvg "Time Lapse of 3D Printed Straw")
+[![Time Lapse of 3D Printed Straw](http://img.youtube.com/vi/GSf-xaXTDvg/0.jpg)](http://www.youtube.com/watch?v=GSf-xaXTDvg "Time Lapse of 3D Printed Straw") Time Lapse Video
