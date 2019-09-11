@@ -10,10 +10,12 @@
 
 With governments around the United States and other nations outlawing plastic straws, based on data from a kids school report, I decided to download this project by Gregory E Nator and make a joke video spoofing the news reports on both banning straws and 3D Printed Guns. While the straw printed fine at the time I did not know if any of the PLA I had was considered food safe so I did not use it to drink from.
 
+**DOWNLOADED IMAGES**
+![3D Render of Straw from Download](\Straw\images\9cb5dad8c12b666a0e7335a787b2fa5d_preview_featured.jpg)
 
-![DOWNLOAD PICTURE](home-office\Straw\images\9cb5dad8c12b666a0e7335a787b2fa5d_preview_featured.jpg)
-
-PICTURE OF MY PRINT
+**MY IMAGES**
+![Picture of my print of the straw](\photos\straw_01.jpg)
+![Picture of my print of the straw](\photos\straw_02.gif)
 
 
 ## Technical Information ##
@@ -34,4 +36,6 @@ PICTURE OF MY PRINT
 ## Additional Hardware Used ##
 NONE
 
-## Additional Photos of my Print ##
+## Additional Photos/Videos of my Print ##
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GSf-xaXTDvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
