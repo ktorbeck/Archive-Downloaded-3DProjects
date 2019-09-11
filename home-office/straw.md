@@ -37,5 +37,4 @@ With governments around the United States and other nations outlawing plastic st
 NONE
 
 ## Additional Photos/Videos of my Print ##
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GSf-xaXTDvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Time Lapse of 3D Printed Straw](http://img.youtube.com/vi/GSf-xaXTDvg/0.jpg)](http://www.youtube.com/watch?v=GSf-xaXTDvg "Time Lapse of 3D Printed Straw")
