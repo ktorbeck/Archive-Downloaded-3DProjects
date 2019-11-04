@@ -9,4 +9,4 @@
 []() | PROJECT LINK | ORIGINAL SOURCE
 ---------|----------|---------
  <pic> | Tea Light Jack O Lanterns | Modified based on Thingiverse: Jack-o'-lantern Pumpkin with separate stem
- <pic> | Cheshire Jack O Lanterns | Thingiverse: [Cheshire Pumpkin](https://www.thingiverse.com/thing:2615873) by [PolyForge](https://www.thingiverse.com/PolyForge/about)
+ <img src="holidays\halloween\cheshirejackolantern\photos\cheshirejackolantern_face.jpg"  alt="Image of Cheshire Jack O Lanterns" width="350" > | [Cheshire Jack O Lanterns](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/9f6916e4fff01a3746ca6701429d3e0d57cfe1cb/holidays/halloween/cheshirejackolantern/cheshirejackolantern.md) | Thingiverse: [Cheshire Pumpkin](https://www.thingiverse.com/thing:2615873) by [PolyForge](https://www.thingiverse.com/PolyForge/about)
