@@ -6,8 +6,9 @@ This repository is a collection of some of the 3D Projects I have made using my 
 
 ## Checkout Projects: ##
 
-* [Holiday Projects](holidayprojects.md)
-* [Home Office Projects](homeofficeprojects.md)
+* [Holiday Projects](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/dcd16ddfef3008951a7e8cc64b94a2b648f507da/halidayprojects.md)
+* [Home Office Projects](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/dcd16ddfef3008951a7e8cc64b94a2b648f507da/homeofficeprojects.md)
+
 
 
 
