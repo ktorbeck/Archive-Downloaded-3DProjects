@@ -11,8 +11,9 @@ DOWNLOAD PICTURE
 
 PICTURE OF MY PRINT
 
-[Cheshire Jack O Lantern Face](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/9f6916e4fff01a3746ca6701429d3e0d57cfe1cb/holidays/halloween/cheshirejackolantern/photos/cheshirejackolantern_face.jpg)
-[Cheshire Jack O Lantern Side](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/9f6916e4fff01a3746ca6701429d3e0d57cfe1cb/holidays/halloween/cheshirejackolantern/photos/cheshirejackolantern_side.jpg)
+![Cheshire Jack O Lantern Face](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/9f6916e4fff01a3746ca6701429d3e0d57cfe1cb/holidays/halloween/cheshirejackolantern/photos/cheshirejackolantern_face.jpg)
+
+
 
 
 ## Technical Information ##
@@ -34,3 +35,5 @@ PICTURE OF MY PRINT
 - NAME - LINK
 
 ## Additional Photos of my Print ##
+![Cheshire Jack O Lantern Side](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/9f6916e4fff01a3746ca6701429d3e0d57cfe1cb/holidays/halloween/cheshirejackolantern/photos/cheshirejackolantern_side.jpg)
+
