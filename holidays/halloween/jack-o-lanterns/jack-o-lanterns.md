@@ -14,7 +14,7 @@ Classic Jack-o-lantern | [Ben Eagan](https://www.thingiverse.com/benrules2/about
 
 
 PICTURE OF MY PRINT
-![Picture of my Jack-O-Lantern Army](holidays\halloween\jack-o-lanterns\photos\20191027_092629.jpg)
+![Picture of my Jack-O-Lantern Army](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/962c25efab841327b64ea46e87cb2ae354ab1773/holidays/halloween/jack-o-lanterns/photos/20191027_092629.jpg)
 
 ## Technical Information ##
 | | |
@@ -60,4 +60,4 @@ PICTURE OF MY PRINT
 [36-Pack Tea Lights, LED Tea Light CandlesFlickering Flameless Candles](https://www.amazon.com/dp/B07L3Q5NBM/ref=cm_sw_em_r_mt_dp_U_LWBWDbW3VYNDZ)
 
 ## Additional Photos of my Print ##
-![Additional view of my army](holidays\halloween\jack-o-lanterns\photos\20191027_092645.jpg)
+![Additional view of my army](https://github.com/ktorbeck/Archive-Downloaded-3DProjects/blob/962c25efab841327b64ea46e87cb2ae354ab1773/holidays/halloween/jack-o-lanterns/photos/20191027_092645.jpg)
